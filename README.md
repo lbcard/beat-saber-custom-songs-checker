@@ -19,3 +19,7 @@ This is just a raw NodeJS script so you'll need NodeJS installed.
 - then just run `node index.js` in this repo project folder.
 
 The script should output a json file called `customSongsReport.json` which has all the info in.
+
+## Fixing Beat Saber: Perpetual Song Loading/Custom Songs Not Loading 
+
+Just in case it helps and you landed here looking for a fix for the same issue I had and can't/not how to run a NodeJS script, the 2 main mod dependencies I found I needed wer `"Noodle Extensions" and "Mapping Extensions"` so maybe make sure you have them as a potential quick fix.
