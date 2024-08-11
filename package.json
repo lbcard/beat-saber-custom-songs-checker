@@ -1,0 +1,17 @@
+{
+  "name": "beat-saber-custom-songs-checker",
+  "version": "1.0.0",
+  "description": "Script that checks your custom song files and extracts info like required mods. To fix issues when Beat Saber updates and mod dependencies are required to be installed again. Intended to be extended to extract more info like difficulties etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beat",
+    "saber",
+    "mods"
+  ],
+  "type":"module",
+  "author": "lbcard",
+  "license": "ISC"
+}
