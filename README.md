@@ -1,5 +1,7 @@
 # Beat Saber Custom Songs Checker
 
+## About This Tool
+
 This is a nodejs script that checks your custom song files and extracts info like required mods into a report file.
 
 It was predominently created to fix an issue I had when Beat Saber updates and specific mod dependencies are required to be installed again. The specific issue caused my Beat Saber custom songs list to be perpetually loading and therefore never actually accessible. If you have the same issue then this might help. 
