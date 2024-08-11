@@ -13,5 +13,9 @@
   ],
   "type":"module",
   "author": "lbcard",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/lbcard/beat-saber-custom-songs-checker.git" 
+  } 
 }
